@@ -4,15 +4,15 @@
 ### For installing use PRE_EFI.
 ### After installation use POST_EFI.
 
-#### This is a edited repo of [GeekyCoder7](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) EFI.
+#### This is an edited repo of [GeekyCoder7](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) EFI adjusted for my laptop.
 
 ### Specs:
 
-Intel Core i7-4720HQ
-Intel HD4600 integrated GPU
-Nvidia GTX 960M 4GB (unsupported)
-16GB DDR4 Ram
-Broadcom BCM94352Z (Network card)
+  * Intel Core i7-4720HQ
+  * Intel HD4600 integrated GPU
+  * Nvidia GTX 960M 4GB (unsupported)
+  * 16GB DDR4 Ram
+  * Broadcom BCM94352Z (Network card)
 
 
 ### Caveats:
