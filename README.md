@@ -4,7 +4,7 @@
 ### For installing use PRE_EFI.
 ### After installation use POST_EFI.
 
-#### This is an edited repo of [GeekyCoder7](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) EFI adjusted for my laptop.
+#### This is an edited repo of [GeekyCoder7](https://github.com/GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70) EFI adjusted for my laptop.
 
 ### Specs:
 
