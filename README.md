@@ -15,6 +15,10 @@
   * Broadcom BCM94352Z (Network card)
 
 
+### Important
+You have to provide your own generated SMBIOS info in config.plist. See GeekyCoder7's README.md in order to find instructions on how to do that.
+
+
 ### Caveats:
 
   * There are some issues with AppleALC layout-id, for now it is set to alcid=15 which makes audio from headphones and built-in speakers work correctly, but there are some issues with microphone (recording only right channel).   
