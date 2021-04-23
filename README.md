@@ -16,7 +16,7 @@
 
 
 ### Important
-You have to provide your own generated SMBIOS info in config.plist. See GeekyCoder7's README.md in order to find instructions on how to do that.
+You have to provide your own generated SMBIOS info in config.plist. See GeekyCoder7's README.md in order to find instructions on how to do that. Remember that the recommended SystemProductName for y50-70 is MacBookPro11,1.
 
 
 ### Caveats:
